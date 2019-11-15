@@ -1,0 +1,12 @@
+FROM php:7.2-fpm
+
+
+RUN apt-get update && apt-get install -y libmcrypt-dev \
+    vim \
+    unzip \
+    git \
+    mariadb-client libmagickwand-dev --no-install-recommends \
+    && docker-php-ext-install  pdo_mysql \
+    apt-get install php-memcached \
+    apt-get install memcached
+
