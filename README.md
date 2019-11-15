@@ -201,9 +201,10 @@ you should see something like the following  text after running the above comman
  
  
 <h4>screenshots</h4>
-   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshots/1.png)
-   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshots/2.png)
-   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshots/3.png)
-   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshots/4.png)
-   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshots/5.png)
+
+   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshot/1.png)
+   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshot/2.png)
+   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshot/3.png)
+   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshot/4.png)
+   ![alt text](https://github.com/Javad-Alirezaeyan/smsService/blob/master/screenshot/5.png)
     
