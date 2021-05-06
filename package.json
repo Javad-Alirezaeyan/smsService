@@ -21,6 +21,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "highcharts": "^7.2.1"
+        "highcharts": "^9.0.0"
     }
 }
